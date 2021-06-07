@@ -1,0 +1,12 @@
+# Keep all configs in this directory
+
+# Here is a sample of yaml config convention:
+
+CONFIG:
+  BATCH: 8
+  EPOCHS: 500
+  CHECKPOINT: 2000
+LOGGING:
+  DEBUG_MSG: 100
+  LOGDIR: '../outputs/sample_config'
+
